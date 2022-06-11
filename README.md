@@ -1,2 +1,2 @@
 # snowTowers
-A small, visual sine-wave drone synth
+A small, visual ASCII sine-wave drone synth for macOS using ncurses and portaudio
